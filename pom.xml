@@ -53,4 +53,15 @@
 		</plugins>
 	</build>
 
+    <distributionManagement>
+        <repository>
+            <id>internal.repo</id>
+            <name>Internal repo</name>
+            <url>https://github.com/gopiveluru/Demo_v001/tree/main</url>
+        </repository>
+    </distributionManagement>
+
+
+
+
 </project>
